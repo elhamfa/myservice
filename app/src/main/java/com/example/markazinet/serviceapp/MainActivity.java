@@ -9,6 +9,7 @@ import android.widget.Button;
 public class MainActivity extends AppCompatActivity {
 
     /*********************/
+    //didi roro
 Button btn;
     Button btn2;
     @Override
