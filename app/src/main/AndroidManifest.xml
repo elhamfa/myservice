@@ -19,7 +19,6 @@
 
         <service android:name=".myservice" />
 
-        <activity android:name=".JsonActivity"></activity>
     </application>
 
 </manifest>
