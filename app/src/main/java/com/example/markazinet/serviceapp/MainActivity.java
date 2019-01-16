@@ -37,5 +37,10 @@ Button btn;
                 stopService(new Intent(getApplicationContext(),myservice.class));
             }
         });
+       Intent i =new Intent();
+       i.setAction(Intent.ACTION_BATTERY_OKAY);
+
     }
+
+
 }
